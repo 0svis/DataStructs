@@ -1,0 +1,26 @@
+Papirovai 20
+Jonas Jonaitis 110 18 22 2
+Ruta Rutkaite 145 17 19 3
+Martynas Martynaitis 128 19 29 2
+Elena Elenaite 140 20 26 5
+Adomas Adomaitis 98 18 21 1
+Ievus Ievaite 132 20 30 4
+Kazys Kazlauskas 155 21 35 6
+Giedre Giedraite 120 16 24 3
+Andrius Andriukaitis 165 22 38 7
+Jolanta Jolantaite 112 17 20 2
+Justinas Justinauskas 138 20 33 4
+Simona Simonaviciute 127 18 25 3
+Darius Dariukas 152 19 28 6
+Rasa Rasalaite 142 17 23 5
+Algirdas Algirdaitis 115 16 22 2
+Jurgita Jurgitaite 129 20 31 4
+Vytautas Vytautaitis 157 21 36 7
+Ingrida Ingridaite 121 19 26 3
+Romualdas Romualdaitis 168 23 40 8
+Lina Linaviciute 105 16 19 1
+Antanas Antanaitis 100 20 24 1
+Gustatis Petras 130 16 20 4
+Alkantovic Hanz 160 19 34 5
+Mihantravoc Jan 149 20 54 9
+Mykolaitis Vincas 255 20 25 1

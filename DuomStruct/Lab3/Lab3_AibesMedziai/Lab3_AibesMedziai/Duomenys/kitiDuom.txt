@@ -1,0 +1,15 @@
+Lazdynas   Sokoladinis 20 7 true Lenkija
+Migdolas    Sausainis   50 7 true Lietuva
+Kokosas Sokoladinis 10 2 true Estija
+Graikinis    Ledai       30 5 true Suomija
+Lietuviskasis   Sokoladinis 20 7 true Lenkija
+Lazdynas   Sokoladinis 20 7 true Lenkija
+Migdolas    Sausainis   50 7 true Lietuva
+Kokosas Sokoladinis 10 2 true Estija
+Graikinis    Ledai       30 5 true Suomija
+Lietuviskasis   Sokoladinis 20 7 true Lenkija
+Lazdynas   Sokoladinis 20 7 true Lenkija
+Migdolas    Sausainis   50 7 true Lietuva
+Kokosas Sokoladinis 10 2 true Estija
+Graikinis    Ledai       30 5 true Suomija
+Lietuviskasis   Sokoladinis 20 7 true Lenkija

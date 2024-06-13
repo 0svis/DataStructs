@@ -1,0 +1,43 @@
+Papirovai
+Pradiniai duomenys
+--------------------------------------------------------------------------------
+Pavardė        Vardas         Ūgis           Rungtynių sk.  Taškai         Klaidos
+Jonas           Jonaitis        110.00          18              22.00           2              
+Ruta            Rutkaite        145.00          17              19.00           3              
+Martynas        Martynaitis     128.00          19              29.00           2              
+Elena           Elenaite        140.00          20              26.00           5              
+Adomas          Adomaitis       98.00           18              21.00           1              
+Ievus           Ievaite         132.00          20              30.00           4              
+Kazys           Kazlauskas      155.00          21              35.00           6              
+Giedre          Giedraite       120.00          16              24.00           3              
+Andrius         Andriukaitis    165.00          22              38.00           7              
+Jolanta         Jolantaite      112.00          17              20.00           2              
+Justinas        Justinauskas    138.00          20              33.00           4              
+Simona          Simonaviciute   127.00          18              25.00           3              
+Darius          Dariukas        152.00          19              28.00           6              
+Rasa            Rasalaite       142.00          17              23.00           5              
+Algirdas        Algirdaitis     115.00          16              22.00           2              
+Jurgita         Jurgitaite      129.00          20              31.00           4              
+Vytautas        Vytautaitis     157.00          21              36.00           7              
+Ingrida         Ingridaite      121.00          19              26.00           3              
+Romualdas       Romualdaitis    168.00          23              40.00           8              
+Lina            Linaviciute     105.00          16              19.00           1              
+Antanas         Antanaitis      100.00          20              24.00           1              
+Gustatis        Petras          130.00          16              20.00           4              
+Alkantovic      Hanz            160.00          19              34.00           5              
+Mihantravoc     Jan             149.00          20              54.00           9              
+Mykolaitis      Vincas          255.00          20              25.00           1              
+
+--------------------------------------------------------------------------------
+
+
+Rezultatai
+--------------------------------------------------------------------------------
+Pavardė        Vardas         Ūgis           Rungtynių sk.  Taškai         Klaidos
+Ievus           Ievaite         132.00          20              30.00           4              
+Justinas        Justinauskas    138.00          20              33.00           4              
+Jurgita         Jurgitaite      129.00          20              31.00           4              
+Mihantravoc     Jan             149.00          20              54.00           9              
+
+--------------------------------------------------------------------------------
+

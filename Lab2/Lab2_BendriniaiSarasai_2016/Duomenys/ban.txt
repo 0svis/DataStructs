@@ -1,0 +1,12 @@
+Ford     Focus    2009   40000  36000,0 
+Ford     Focus    2008   50000  34000,0 
+Ford     Focus    2007   60000  32000,0 
+Ford     Focus    2006   70000  30000,0 
+Ford     Focus    2005   80000  28000,0 
+Ford     Focus    2004   90000  26000,0 
+Ford     Focus    2003  100000  24000,0 
+Ford     Focus    2002  110000  22000,0 
+Ford     Mondeo   2009   37000      0,0  Kaina už leistinų ribų [200.0:120000.0]
+Fiat     Bravo    2008   27000  32500,0 
+Ford     Fiesta   2009   37000  16000,0 
+Audi     A6       2006   87000  36000,0 

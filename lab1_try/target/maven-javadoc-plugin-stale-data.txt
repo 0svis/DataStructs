@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/Osvaldas/Desktop/lab1_try/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Osvaldas/Desktop/lab1_try/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lab1_try 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'lab1_try 1.0-SNAPSHOT API'
+com.mycompany.lab1_try
+C:\Users\Osvaldas\Desktop\lab1_try\src\main\java = 1696197793869
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\allclasses-index.html = 1696199371753
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\allpackages-index.html = 1696199371755
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\copy.svg = 1696199371780
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\element-list = 1696199371694
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\help-doc.html = 1696199371775
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\index-all.html = 1696199371767
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\index.html = 1696199371771
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\member-search-index.js = 1696199371759
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\module-search-index.js = 1696199371756
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\overview-tree.html = 1696199371740
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\package-search-index.js = 1696199371757
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\script.js = 1696199371779
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\search-page.js = 1696199371784
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\search.html = 1696199371769
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\search.js = 1696199371783
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\serialized-form.html = 1696199371725
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\stylesheet.css = 1696199371777
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\tag-search-index.js = 1696199371760
+C:\Users\Osvaldas\Desktop\lab1_try\target\site\apidocs\type-search-index.js = 1696199371758
